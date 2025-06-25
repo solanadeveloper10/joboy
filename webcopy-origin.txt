@@ -1,0 +1,112 @@
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=668c496e7ceb7d41bf2496e3
+File Name: C:\Downloaded Web Sites\grinkle.me\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://grinkle.me/
+File Name: C:\Downloaded Web Sites\grinkle.me\index.htm
+Content Type: text/html
+
+Uri: https://grinkle.me/css/grinkle.css
+File Name: C:\Downloaded Web Sites\grinkle.me\css\grinkle.css
+Content Type: text/css
+
+Uri: https://grinkle.me/css/grinklecss.css
+File Name: C:\Downloaded Web Sites\grinkle.me\css\grinklecss.css
+Content Type: text/css
+
+Uri: https://grinkle.me/css/normalize.css
+File Name: C:\Downloaded Web Sites\grinkle.me\css\normalize.css
+Content Type: text/css
+
+Uri: https://grinkle.me/fonts/maladroit.ttf
+File Name: C:\Downloaded Web Sites\grinkle.me\fonts\maladroit.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://grinkle.me/fonts/Super-Ocean-Personal-Use.ttf
+File Name: C:\Downloaded Web Sites\grinkle.me\fonts\Super-Ocean-Personal-Use.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://grinkle.me/images/chara_join.png
+File Name: C:\Downloaded Web Sites\grinkle.me\images\chara_join.png
+Content Type: image/png
+
+Uri: https://grinkle.me/images/chara_skate.svg
+File Name: C:\Downloaded Web Sites\grinkle.me\images\chara_skate.svg
+Content Type: image/svg+xml
+
+Uri: https://grinkle.me/images/eyes.png
+File Name: C:\Downloaded Web Sites\grinkle.me\images\eyes.png
+Content Type: image/png
+
+Uri: https://grinkle.me/images/favicon.ico
+File Name: C:\Downloaded Web Sites\grinkle.me\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://grinkle.me/images/glasses.gif
+File Name: C:\Downloaded Web Sites\grinkle.me\images\glasses.gif
+Content Type: image/gif
+
+Uri: https://grinkle.me/images/hero_chara.png
+File Name: C:\Downloaded Web Sites\grinkle.me\images\hero_chara.png
+Content Type: image/png
+
+Uri: https://grinkle.me/images/hero_logo.png
+File Name: C:\Downloaded Web Sites\grinkle.me\images\hero_logo.png
+Content Type: image/png
+
+Uri: https://grinkle.me/images/hero_wave_bottom.svg
+File Name: C:\Downloaded Web Sites\grinkle.me\images\hero_wave_bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://grinkle.me/images/hero_wave_small.svg
+File Name: C:\Downloaded Web Sites\grinkle.me\images\hero_wave_small.svg
+Content Type: image/svg+xml
+
+Uri: https://grinkle.me/images/hero_wave_top.svg
+File Name: C:\Downloaded Web Sites\grinkle.me\images\hero_wave_top.svg
+Content Type: image/svg+xml
+
+Uri: https://grinkle.me/images/hero_wave_transition.svg
+File Name: C:\Downloaded Web Sites\grinkle.me\images\hero_wave_transition.svg
+Content Type: image/svg+xml
+
+Uri: https://grinkle.me/images/shine.png
+File Name: C:\Downloaded Web Sites\grinkle.me\images\shine.png
+Content Type: image/png
+
+Uri: https://grinkle.me/images/telegram.svg
+File Name: C:\Downloaded Web Sites\grinkle.me\images\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://grinkle.me/images/waves_tokenomics.svg
+File Name: C:\Downloaded Web Sites\grinkle.me\images\waves_tokenomics.svg
+Content Type: image/svg+xml
+
+Uri: https://grinkle.me/images/wave_join_bg.svg
+File Name: C:\Downloaded Web Sites\grinkle.me\images\wave_join_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://grinkle.me/images/wave_join_top.svg
+File Name: C:\Downloaded Web Sites\grinkle.me\images\wave_join_top.svg
+Content Type: image/svg+xml
+
+Uri: https://grinkle.me/images/wave_tokenomics_fg.svg
+File Name: C:\Downloaded Web Sites\grinkle.me\images\wave_tokenomics_fg.svg
+Content Type: image/svg+xml
+
+Uri: https://grinkle.me/images/webclip.png
+File Name: C:\Downloaded Web Sites\grinkle.me\images\webclip.png
+Content Type: image/png
+
+Uri: https://grinkle.me/images/x.svg
+File Name: C:\Downloaded Web Sites\grinkle.me\images\x.svg
+Content Type: image/svg+xml
+
+Uri: https://grinkle.me/js/grinkle.js
+File Name: C:\Downloaded Web Sites\grinkle.me\js\grinkle.js
+Content Type: application/x-javascript
+
+Uri: https://grinkle.me/js/music.js
+File Name: C:\Downloaded Web Sites\grinkle.me\js\music.js
+Content Type: application/x-javascript
+
